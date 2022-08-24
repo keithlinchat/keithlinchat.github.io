@@ -1,0 +1,184 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif
+}
+
+.chat-line {
+   
+}
+
+.bg {
+    background-color: black;
+}
+
+.text {
+    color: white;
+}
+
+.cheer1 {
+    color: rgb(151, 151, 151);
+	padding-left: 0.1em;
+}
+
+.cheer100 {
+    color: rgb(156, 62, 232);
+	padding-left: 0.1em;
+}
+
+.cheer1000 {
+    color: rgb(29, 178, 165);
+	padding-left: 0.1em;
+}
+
+.cheer5000 {
+    color: rgb(0, 153, 254);
+	padding-left: 0.1em;
+}
+
+.cheer10000 {
+    color: rgb(244, 48, 33);
+	padding-left: 0.1em;
+}
+
+.cheer100000 {
+    color: rgb(255, 189, 33);
+	padding-left: 0.1em;
+}
+
+element.style {
+    min-height: 0px;
+}
+
+.tw-align-items-end {
+    align-items: flex-end !important;
+}
+
+.tw-flex-wrap {
+    flex-wrap: wrap !important;
+}
+
+.tw-flex {
+    display: flex !important;
+}
+
+.tw-full-width {
+    width: 100% !important;
+}
+
+
+ul {
+    padding: 0;
+    margin: 0;
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+li {
+    padding-top: 0.1em;
+    display: list-item;
+}
+
+.chatline {
+    display: flex;
+}
+
+.time {
+    padding-right: 1em;
+}
+
+.message {
+}
+
+.resub {
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.submysterygift {
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.subgift {
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.communitypayforward{
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.sub{
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.raid,.unraid{
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+    padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.highlighted,.giftpaidupgrade,.bitsbadgetier,.announcement{
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+	padding-left: 1em;
+    border-left-style: solid;
+    border-left-color: #9147ff;
+    color: #9147ff;
+    border-left: 4px solid;
+}
+
+.highlighted-message{
+	padding: 0.2em;
+	color: #fff;
+	margin-left: 0.6em;
+	background: #755ebc;
+}
+
+.semicolon{
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+}
+
+.badge {
+    padding-right: 0.4em;
+}
+.badgeImg{
+	padding-right: 0.4em;
+}
+
+.user {}
